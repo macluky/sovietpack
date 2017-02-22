@@ -18,7 +18,7 @@ Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/22749-022x-
 ##Science
 
 | Module   | Stock     | DMagic  | Station Science | TAC LS      | Historical Purpose                   |
-|----------|-----------|---------|-----------------|----------------------------------------------------|
+|----------|-----------|---------|-----------------|-------------|--------------------------------------|
 | Core     | Lab       |         |                 | Supplies    | Core Lab and Life Support            |
 | Kvant 1  | Goo       |  RPWS   | Lab             | Scrubber    | Telescopes X-Ray Oxygen Generation   |
 | Kvant 2  | Gravity   |         | Spectro         | H2O Reclaim |Cargo X-Ray Water recalamation        |
@@ -43,7 +43,8 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 
 ##NOTES:
 
-* none
+* Soyuz parachute is broken
+* Soyuz pod reenters with wrong center of mass
 
 ##CREDITS:
 
