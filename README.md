@@ -36,10 +36,10 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 
 * MIR (Core, Kvant1, Kvant2, Kristall, Pririoda, Spektr, ISS APAS, Soviet and Shuttle docking ports)
 * Zarya
-* Proton delivery vehicle (40 tons LKO)
+* Proton delivery vehicle (35 ton LKO)
 * Soyuz TMA
 * Progress
-* Soyuz delivery vehicle
+* Soyuz U delivery vehicle (12 ton LKO)
 
 ##NOTES:
 
