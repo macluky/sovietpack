@@ -12,6 +12,20 @@ Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/22749-022x-
 * Snacks
 * Station Science
 * TAC
+* MechJeb
+
+##Science
+
+| Module   | Stock     | DMagic  | Station Science | TAC LS      | Historical Purpose                   |
+|----------|-----------|---------|-----------------|----------------------------------------------------|
+| Core     | Lab       |         |                 | Supplies    | Core Lab and Life Support            |
+| Kvant 1  | Goo       |  RPWS   | Lab             | Scrubber    | Telescopes X-Ray Oxygen Generation   |
+| Kvant 2  | Gravity   |         | Spectro         | H2O Reclaim |Cargo X-Ray Water recalamation        |
+| Kristall | Material  |  Biome  | Biology         | H2O Split   | Biotech, Material science            |
+| Spektr   | Kerbnet   |  Scope  |                 | Supplies    | Hab, Solar, Power, Food, Observation |
+| Pririoda | N700 Scan |  Solar  | Cyclotron       |             | Radar resource, biomes               |
+| Zarya	   |           |         |                 | Supplies    | Core and logistics                   |
+
 
 ##INSTALL:
 
