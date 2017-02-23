@@ -14,6 +14,7 @@ Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/22749-022x-
 * TAC
 * MechJeb
 * CTT
+* RasterPropMonitorComputer
 
 ##Science
 
