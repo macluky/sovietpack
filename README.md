@@ -43,8 +43,7 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 
 ##NOTES:
 
-* Soyuz parachute is broken
-* Soyuz pod reenters with wrong center of mass
+* None
 
 ##CREDITS:
 
