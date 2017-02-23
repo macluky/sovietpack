@@ -16,8 +16,6 @@ Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/22749-022x-
 * CTT
 * RasterPropMonitorComputer
 
-MIR KVANT 1
-
 ##Science
 
 | Module   | Stock     | DMagic  | Station Science | TAC LS      | Historical Purpose                   |
