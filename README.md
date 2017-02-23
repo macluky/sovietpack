@@ -16,6 +16,8 @@ Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/22749-022x-
 * CTT
 * RasterPropMonitorComputer
 
+MIR KVANT 1
+
 ##Science
 
 | Module   | Stock     | DMagic  | Station Science | TAC LS      | Historical Purpose                   |
@@ -45,6 +47,10 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 ##NOTES:
 
 * None
+
+##PICTURES:
+
+http://imgur.com/a/jgx5H
 
 ##CREDITS:
 
