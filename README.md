@@ -12,21 +12,22 @@ Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/22749-022x-
 * Snacks
 * Station Science
 * TAC
+* USI-LS
 * MechJeb
 * CTT
 * RasterPropMonitorComputer
 
 ##Science
 
-| Module   | Stock     | DMagic  | Station Science | TAC LS      | Historical Purpose                   |
-|----------|-----------|---------|-----------------|-------------|--------------------------------------|
-| Core     | Lab       |         |                 | Supplies    | Core Lab and Life Support            |
-| Kvant 1  | Goo       |  RPWS   | Lab             | CO2 Scrubber| Telescopes X-Ray Oxygen Generation   |
-| Kvant 2  | Gravity   |         | Spectro         | H2O Reclaim |Cargo X-Ray Water recalamation        |
-| Kristall | Material  |  Biome  | Biology         | H2O Split   | Biotech, Material science            |
-| Spektr   | Kerbnet   |  Scope  |                 | Supplies    | Hab, Solar, Power, Food, Observation |
-| Pririoda | N700 Scan |  Solar  | Cyclotron       |             | Radar resource, biomes               |
-| Zarya	   |           |         |                 | Supplies    | Core and logistics                   |
+| Module   | Stock     | DMagic  | Station Science | TAC LS      | USI LS     |Historical Purpose                   |
+|----------|-----------|---------|-----------------|-------------|------------|-------------------------------------|
+| Core     | Lab       |         |                 | Supplies    | Supplies   | Core Lab and Life Support           |
+| Kvant 1  | Goo       |  RPWS   | Lab             | CO2 Scrubber| Recycler   | Telescopes X-Ray Oxygen Generation  |
+| Kvant 2  | Gravity   |         | Spectro         | H2O Reclaim | Recycler   | Cargo X-Ray Water recalamation      |
+| Kristall | Material  |  Biome  | Biology         | H2O Split   | Recycler   | Biotech, Material science           |
+| Spektr   | Kerbnet   |  Scope  |                 | Supplies    | Supplies   | Hab, Solar, Power, Food, Observation|
+| Pririoda | N700 Scan |  Solar  | Cyclotron       |             | Recy. Green| Radar resource, biomes              |
+| Zarya	   |           |         |                 | Supplies    | Recy. Supp.|Core and logistics                   |
 
 
 ##INSTALL:
